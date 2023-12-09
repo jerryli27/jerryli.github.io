@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jerry Li · 李 嘉銘 · リ　ジェリー"
+  name             : "Jerry Li"
   avatar           : "profile.png"
   bio              : "Research Engineer working on real-time dialogue agents"
   location         : "London, UK"
