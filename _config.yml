@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jerry Li"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Research Engineer working on real-time dialogue agents"
   location         : "London, UK"
   employer         : "Google DeepMind"
